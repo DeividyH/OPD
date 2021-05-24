@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OPD.Domain.Services/1.0.0": {
+        "dependencies": {
+          "OPD.Domain": "1.0.0",
+          "OPD.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "OPD.Domain.Services.dll": {}
+        }
+      },
+      "OPD.Domain/1.0.0": {
+        "runtime": {
+          "OPD.Domain.dll": {}
+        }
+      },
+      "OPD.Domain.Core/1.0.0": {
+        "dependencies": {
+          "OPD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OPD.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OPD.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OPD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OPD.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

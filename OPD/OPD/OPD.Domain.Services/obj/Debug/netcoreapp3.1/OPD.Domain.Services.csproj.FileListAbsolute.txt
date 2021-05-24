@@ -1,0 +1,14 @@
+C:\TFS\OPD\OPD\OPD.Domain.Services\bin\Debug\netcoreapp3.1\OPD.Domain.Services.deps.json
+C:\TFS\OPD\OPD\OPD.Domain.Services\bin\Debug\netcoreapp3.1\OPD.Domain.Services.dll
+C:\TFS\OPD\OPD\OPD.Domain.Services\bin\Debug\netcoreapp3.1\OPD.Domain.Services.pdb
+C:\TFS\OPD\OPD\OPD.Domain.Services\bin\Debug\netcoreapp3.1\OPD.Domain.Core.dll
+C:\TFS\OPD\OPD\OPD.Domain.Services\bin\Debug\netcoreapp3.1\OPD.Domain.dll
+C:\TFS\OPD\OPD\OPD.Domain.Services\bin\Debug\netcoreapp3.1\OPD.Domain.pdb
+C:\TFS\OPD\OPD\OPD.Domain.Services\bin\Debug\netcoreapp3.1\OPD.Domain.Core.pdb
+C:\TFS\OPD\OPD\OPD.Domain.Services\obj\Debug\netcoreapp3.1\OPD.Domain.Services.csprojAssemblyReference.cache
+C:\TFS\OPD\OPD\OPD.Domain.Services\obj\Debug\netcoreapp3.1\OPD.Domain.Services.AssemblyInfoInputs.cache
+C:\TFS\OPD\OPD\OPD.Domain.Services\obj\Debug\netcoreapp3.1\OPD.Domain.Services.AssemblyInfo.cs
+C:\TFS\OPD\OPD\OPD.Domain.Services\obj\Debug\netcoreapp3.1\OPD.Domain.Services.csproj.CoreCompileInputs.cache
+C:\TFS\OPD\OPD\OPD.Domain.Services\obj\Debug\netcoreapp3.1\OPD.Domain.Services.csproj.CopyComplete
+C:\TFS\OPD\OPD\OPD.Domain.Services\obj\Debug\netcoreapp3.1\OPD.Domain.Services.dll
+C:\TFS\OPD\OPD\OPD.Domain.Services\obj\Debug\netcoreapp3.1\OPD.Domain.Services.pdb
